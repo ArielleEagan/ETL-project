@@ -7,10 +7,10 @@ Aim:
 
 Our datasets are available on Kaggle.com. The datasets we plan to use for our source data are:  
   1) Movies on Netflix, Prime Video, Hulu and Disney+
-      *A collection of movies found on these streaming platforms*
+      "A collection of movies found on these streaming platforms"
       URL: https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
   2) Oscar Best Picture Movies
-      *Oscar Best Picture Winners an Nominees, IMDB, Rotten Tomato*
+      "Oscar Best Picture Winners an Nominees, IMDB, Rotten Tomato"
       URL: https://www.kaggle.com/martinmraz07/oscar-movies
 
 Using the datasets:
