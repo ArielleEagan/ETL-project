@@ -1,2 +1,26 @@
 Proposal:
 
+Aim: 
+  As new parents, we watch many movies. 
+  We will use this project to explore how many Oscar Best Picture movies are available on Netflix vs Prime Video vs Hulu vs Disney+. 
+  This information will help us improve the quality of our too-often movie screening :) 
+
+Our datasets are available on Kaggle.com. The datasets we plan to use for our source data are:  
+  1) Movies on Netflix, Prime Video, Hulu and Disney+
+      "A collection of movies found on these streaming platforms"
+      URL: https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
+  2) Oscar Best Picture Movies
+      "Oscar Best Picture Winners an Nominees, IMDB, Rotten Tomato"
+      URL: https://www.kaggle.com/martinmraz07/oscar-movies
+
+Using the datasets:
+  - Both datasets are in CSV form and are available for donwload. 
+  - We will download our datasets from Kaggle.com and create a git repository named ETL-project. 
+  - We will invite ourselves to all be Collaborators in this git repository. 
+  - We will create a git repository folder named "Resources" to hold the two CSV files.
+  - After cloning this git reposity for local use, we will open these CSV files in jupyter notebook to work with them. 
+  - Transformatino: 
+      - These are large datasets so we will have to clean them remove unmatched years, as one dataset spans a much longer period than the other. 
+      - We will need to take out unneeded columns to make the data more visible for our review; we are deciding which columns to remove and why.
+      - We plan to join the datasets on movie name and/or on year of movie release. 
+  - We plan to store the data in a SQL database. 
